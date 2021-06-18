@@ -1,6 +1,10 @@
 # Prototype-4
 Rolling Ball Game
 
+
+![CoverIcon](https://user-images.githubusercontent.com/52449128/122496204-f0f2b900-d01d-11eb-8800-e1e0adf13df4.png)
+
+
 [There is a Demo video which displays the gameplay. Check it out!]
 
 Rule:
